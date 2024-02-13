@@ -1,0 +1,33 @@
+_repo: Captain-fly-by-night_72893
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCulley, Johnston
+    alias: Strong, Harrington
+    birthdate: 1883
+    deathdate: 1958
+    gutenberg_agent_id: '37927'
+    url: http://www.gutenberg.org/2009/agents/37927
+    wikipedia: http://en.wikipedia.org/wiki/Johnston_McCulley
+description: ''
+gutenberg_issued: '2024-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72893'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b3145887
+pgterms:marc905: 20230201021817mcculley
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Susan E., Tim Lindell, Thiers Halliwell, who created the book cover,
+  which is placed in the public domain and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bG. Howard Watt, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Captain fly-by-night
+url: http://www.gutenberg.org/ebooks/72893
